@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Justine Tang is a digital health humanist who works at UCSF>
+Justine Tang is a NIH T32 postdoc research fellow at UCSF.
 
 ## Research Interests
 
