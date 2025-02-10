@@ -1,7 +1,7 @@
 main:
 
   - type: education
-    degreepath: MD # for type.education.
+    degreepath: Medical Degree # for type.education.
     institution: Taipei Medical University
     department: College of Medicine
     years: 2016-2022
