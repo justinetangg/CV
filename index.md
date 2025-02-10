@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Justine Tang is a digital health humanist who works at UCSF>
 
 ## Research Interests
 
